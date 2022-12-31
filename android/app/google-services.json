@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625029301550",
+    "project_id": "tastenotwaste-9355c",
+    "storage_bucket": "tastenotwaste-9355c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625029301550:android:a65f70c08917289255a6bf",
+        "android_client_info": {
+          "package_name": "com.example.taste_not_waste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625029301550-pjkagtoeldqbmllipmr7iputb58rdmfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMeSWR7UFIQbHLLVBv122VOR5CB8Cdy6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625029301550-pjkagtoeldqbmllipmr7iputb58rdmfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
